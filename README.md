@@ -1,0 +1,3 @@
+This repo is to store and showcase all my projects that I've done in 2023
+
+"Welcome to Car Select Game! 🚗💨 Pick your dream ride from a vast collection of cars spanning different makes, models, and eras. Whether you're a speed enthusiast, a vintage car lover, or an off-road adventurer, we've got the perfect wheels for you. Test your automotive knowledge and decision-making skills as you navigate through the repository, exploring features, stats, and reviews to find the ultimate vehicle that matches your style and needs. Get ready to rev your engines and embark on an exhilarating journey through the world of automobiles! Buckle up and let the car selection adventure begin! 🏁
