@@ -1,5 +1,7 @@
-# Description:
-This repository serves as the repository for the implementation of Conway's Game of Life, a classic cellular automaton devised by mathematician John Conway. The Game of Life simulates the evolution of a grid of cells based on simple rules, leading to fascinating emergent behaviors.
+# Game of Life
+#### Video Demo:  <(https://youtu.be/sRyYqqGXM50)>
+#### Description:
+This repository serves as the repository for the implementation of Game of Life, a classic cellular automaton devised by mathematician John Conway. The Game of Life simulates the evolution of a grid of cells based on simple rules, leading to fascinating emergent behaviors.
 
 # Key Features:
 
