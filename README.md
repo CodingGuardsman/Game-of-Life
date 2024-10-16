@@ -17,7 +17,7 @@ Users can advance the simulation one step at a time, facilitating detailed obser
 ## Automated Evolution:
 The simulation offers the option for automated evolution, allowing users to sit back and witness the continuous evolution of the cellular grid.
 
-##Usage: Run python game_of_life.py to start the simulation.
+## Usage: Run python game_of_life.py to start the simulation.
 
 # Folder Structure:
 
